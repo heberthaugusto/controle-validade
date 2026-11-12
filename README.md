@@ -54,6 +54,10 @@ Toda a configuração (planilha, remetente, destinatários, dias de alerta, lemb
 
 ## 📸 Como fica
 
+Lançador de Validades, aplicativo de desktop usado pela operação para alimentar a planilha a partir dos arquivos do coletor:
+
+![Lançador de Validades](docs/lancador_exemplo.png)
+
 Planilha de controle com a formatação por urgência (amarelo até 90 dias, laranja até 60, vermelho até 30):
 
 ![Planilha de exemplo](docs/planilha_exemplo.png)
