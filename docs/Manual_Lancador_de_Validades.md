@@ -20,6 +20,8 @@ Exemplo: 1001|7891000100103|LEITE CONDENSADO 395G|15-01-27|48
 3. **Selecione a planilha (opcional).** Se quiser atualizar a planilha, clique em Selecionar ao lado de "Planilha de Validades" e escolha o `controle_validade.xlsx`. Sem planilha, o programa apenas lê os arquivos e mostra o resumo no log.
 4. **Atualize a planilha.** Clique em Atualizar Planilha. O log na parte inferior mostra o progresso em tempo real.
 
+![Tela do Lançador de Validades](lancador_exemplo.png)
+
 ## 3. Como funciona a planilha
 
 A planilha tem colunas fixas (SKU, Código de Barras, Produto) seguidas de pares de colunas para cada mês (Data de validade | Quantidade).
